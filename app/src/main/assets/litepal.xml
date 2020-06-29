@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="MyConsume"></dbname>
+    <version value="2"></version>
+    <list>
+        <mapping class="com.example.myconsume.entiy.User"></mapping>
+        <mapping class="com.example.myconsume.entiy.Record"></mapping>
+        <mapping class="com.example.myconsume.entiy.Account"></mapping>
+        <mapping class="com.example.myconsume.entiy.BSort"></mapping>
+    </list>
+</litepal>
